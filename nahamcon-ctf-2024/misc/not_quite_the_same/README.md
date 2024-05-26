@@ -7,7 +7,7 @@ http://challenge.nahamcon.com:<port>
 
 ## Solution
 
-The website lets us upload two png files. From challenge description, we can guess that the website uses MD5 hash to identify files. We need to create a MD5 collision to create an error in server.
+The website lets us upload two png files. From challenge description, we can guess that the website uses MD5 hash to identify files. We need to create a MD5 collision to force an error in the server.
 
 I got two png files with same MD5 hash from  
 - https://github.com/corkami/collisions/blob/master/examples/free/md5-s1.png

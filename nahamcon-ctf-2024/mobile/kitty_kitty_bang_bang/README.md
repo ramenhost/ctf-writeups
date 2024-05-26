@@ -7,7 +7,7 @@ I found a cool android app to play with a cowboy cat! There's has to be more goi
 
 Static analysis of APK can be done using https://mobsf.live/. 
 
-The application shows an image of cowboy cat. On tapping screen it plays a sound and shows an overlay image.
+The application shows an image of cowboy cat. On tapping screen, it plays a sound and shows an overlay image.
 
 ![App screenshots](app.png)
 

@@ -10,7 +10,7 @@ The script applied textbook RSA to each character in flag individually. The ASCI
 m^e < N
 ```
 
-Hence, we can ignore the modulus and perform reverse of the modulus.
+Hence, we can ignore the modulus and inverse the exponent.
 
 ```python
 ct = [1061208, 1259712, 912673, 1092727, 1860867, 175616, 166375, 941192, 185193, 1030301, 941192, 185193, 912673, 140608, 175616, 185193, 140608, 941192, 970299, 1061208, 175616, 912673, 117649, 912673, 185193, 148877, 912673, 125000, 110592, 1030301, 132651, 132651, 1061208, 117649, 117649, 1061208, 166375, 1953125]
