@@ -1,6 +1,6 @@
 ## Capture the Flag (CTF) Writeups
 
- * la-ctf-2024/
+ * **la-ctf-2024/**
      + crypto/
          - [holyT](https://github.com/ramenhost/ctf-writeups/tree/main/la-ctf-2024/crypto/holyT)
          - [selamat-pagi](https://github.com/ramenhost/ctf-writeups/tree/main/la-ctf-2024/crypto/selamat-pagi)
@@ -15,7 +15,7 @@
          - [the-secret-of-java-island](https://github.com/ramenhost/ctf-writeups/tree/main/la-ctf-2024/rev/the-secret-of-java-island)
      + web/
          - [penguin-login](https://github.com/ramenhost/ctf-writeups/tree/main/la-ctf-2024/web/penguin-login)
- * nahamcon-ctf-2024/
+ * **nahamcon-ctf-2024/**
      + crypto/
          - [magic_rsa](https://github.com/ramenhost/ctf-writeups/tree/main/nahamcon-ctf-2024/crypto/magic_rsa)
      + forensics/
@@ -38,6 +38,8 @@
      + web/
          - [helpfuldesk](https://github.com/ramenhost/ctf-writeups/tree/main/nahamcon-ctf-2024/web/helpfuldesk)
 
+## Disclaimer
+This repository is intended only for learning purposes. **Do not make illegal use of the cmds, payloads, tools and techniques found in this repository!**
 <!--
 find . -type d -mindepth 3 -not -path "./.git/*" | awk -v base=https://github.com/ramenhost/ctf-writeups/tree/main/ -f index.awk > README.md
 -->
