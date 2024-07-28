@@ -12,7 +12,7 @@ Buggy really wants the drip in the shop... Can you buy it for them?
 
 Static analysis of APK can be done using https://mobsf.live/. Static analysis reveals that the game is made by [godot engine](https://godotengine.org/). Luckily, we have toolkit for reverse engineeing godot games - gdre_tools (https://github.com/bruvzg/gdsdecomp).
 
-The game,
+The game,  
 ![Game](game.jpg)
 
 ### Part 1

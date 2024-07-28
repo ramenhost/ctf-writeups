@@ -9,8 +9,8 @@ Lenny Kravitz lovers, this new app cleverly named "Fly Away!" can give you rando
 
 Static analysis of APK can be done using https://mobsf.live/. The static analysis reveals that the app is made using [Flutter](https://flutter.dev/) which complicates the reverse engineering a bit.
 
+![Flyaway app](app.jpg)  
 The app shows a random quote on button click.
-![Flyaway app](app.jpg)
 
 ### Part 1
 The challenge description hints to check the network traffic of the app. 
