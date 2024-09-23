@@ -13,7 +13,7 @@ Enter-a the password-a: Idontknow
 No toucha my spaget!
 ```
 
-The Ghidra decompilation of the main function is shown below.
+The Ghidra decompilation of the main function is shown below.  
 ![main function](decompiled-main.png)
 
 ## Solution
