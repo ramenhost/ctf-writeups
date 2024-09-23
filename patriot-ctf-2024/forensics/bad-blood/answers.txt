@@ -1,0 +1,4 @@
+Invoke-P0wnedshell.ps1
+Invoke-UrbanBishop.ps1
+WinRM
+Covenant

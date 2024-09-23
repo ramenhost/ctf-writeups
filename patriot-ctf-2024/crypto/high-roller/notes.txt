@@ -1,0 +1,3 @@
+Hey just a heads up guys, I think the feds are catching on to us.
+We should be using this custom key generator I wrote from now on for communications. 
+I've included my public key in here so you can send messages back to me :)
